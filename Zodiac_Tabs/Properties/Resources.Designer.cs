@@ -59,5 +59,14 @@ namespace Zodiac_Tabs.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fire Signs (Aries, Leo, Sagittarius), Earth Signs (Taurus, Virgo, Capricorn), Air Signs (Gemini, Libra, Aquarius), and Water Signs (Cancer, Scorpio, Pisces)..
+        /// </summary>
+        internal static string The_groups_of_the_zodiacs {
+            get {
+                return ResourceManager.GetString("The groups of the zodiacs", resourceCulture);
+            }
+        }
     }
 }

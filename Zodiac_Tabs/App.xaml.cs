@@ -10,10 +10,10 @@ namespace Zodiac_Tabs
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new TabbedZodiac();
         }
 
-        protected override void OnStart()
+        protected override async void OnStart()
         {
         }
 

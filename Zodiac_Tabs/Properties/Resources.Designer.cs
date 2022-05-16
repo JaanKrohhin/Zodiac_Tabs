@@ -19,7 +19,7 @@ namespace Zodiac_Tabs.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -57,6 +57,162 @@ namespace Zodiac_Tabs.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aries
+        ///Mar 21 - Apr 19
+        ///Ambitious, independent, impatient
+        ///Diamond
+        ///https://www.horoscope.com/zodiac-signs/aries.
+        /// </summary>
+        internal static string _0 {
+            get {
+                return ResourceManager.GetString("_0", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leo
+        ///Jul 23 - Aug 22
+        ///Proud, bold, ambitious
+        ///Carnelian
+        ///https://www.horoscope.com/zodiac-signs/leo.
+        /// </summary>
+        internal static string _1 {
+            get {
+                return ResourceManager.GetString("_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Scorpio
+        ///Oct 23 - Nov 21
+        ///Seductive, passionate, independent
+        ///Topaz &amp; opal
+        ///https://www.horoscope.com/zodiac-signs/scorpio.
+        /// </summary>
+        internal static string _10 {
+            get {
+                return ResourceManager.GetString("_10", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Pisces
+        ///Feb 19 - Mar 20
+        ///Creative, sensitive, artistic
+        ///Moonstone
+        ///https://www.horoscope.com/zodiac-signs/pisces.
+        /// </summary>
+        internal static string _11 {
+            get {
+                return ResourceManager.GetString("_11", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sagittarius
+        ///Nov 22 - Dec 21
+        ///Adventurous, creative, strong willed
+        ///Topaz
+        ///https://www.horoscope.com/zodiac-signs/sagittarius.
+        /// </summary>
+        internal static string _2 {
+            get {
+                return ResourceManager.GetString("_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Taurus
+        ///Apr 20 - May 20
+        ///Dependable, musical, practical
+        ///Emerald
+        ///https://www.horoscope.com/zodiac-signs/Taurus.
+        /// </summary>
+        internal static string _3 {
+            get {
+                return ResourceManager.GetString("_3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Virgo
+        ///Aug 23 - Sep 22
+        ///Graceful, organized, kind
+        ///Peridot
+        ///https://www.horoscope.com/zodiac-signs/Virgo.
+        /// </summary>
+        internal static string _4 {
+            get {
+                return ResourceManager.GetString("_4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Capricorn
+        ///Dec 22 - Jan 19
+        ///Detail-oriented, intelligent, hardworking
+        ///Lapis lazuli
+        ///https://www.horoscope.com/zodiac-signs/Capricorn.
+        /// </summary>
+        internal static string _5 {
+            get {
+                return ResourceManager.GetString("_5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gemini
+        ///May 21 - Jun 20
+        ///Curious, affectionate, kind
+        ///Tiger&apos;s Eye &amp; Emerald
+        ///https://www.horoscope.com/zodiac-signs/Gemini.
+        /// </summary>
+        internal static string _6 {
+            get {
+                return ResourceManager.GetString("_6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Libra
+        ///Sep 23 - Oct 22
+        ///Diplomatic, artistic, intelligent
+        ///Sapphire
+        ///https://www.horoscope.com/zodiac-signs/Libra.
+        /// </summary>
+        internal static string _7 {
+            get {
+                return ResourceManager.GetString("_7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Aquarius
+        ///Jan 20 - Feb 18
+        ///Imaginative, idealistic, intuitive
+        ///Amethyst
+        ///https://www.horoscope.com/zodiac-signs/Aquarius.
+        /// </summary>
+        internal static string _8 {
+            get {
+                return ResourceManager.GetString("_8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cancer
+        ///Jun 21 - Jul 22
+        ///Intuitive, emotional, intelligent, passionate
+        ///Ruby, pearl
+        ///https://www.horoscope.com/zodiac-signs/Cancer.
+        /// </summary>
+        internal static string _9 {
+            get {
+                return ResourceManager.GetString("_9", resourceCulture);
             }
         }
         

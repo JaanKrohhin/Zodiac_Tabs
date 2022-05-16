@@ -120,4 +120,88 @@
   <data name="The groups of the zodiacs" xml:space="preserve">
     <value>Fire Signs (Aries, Leo, Sagittarius), Earth Signs (Taurus, Virgo, Capricorn), Air Signs (Gemini, Libra, Aquarius), and Water Signs (Cancer, Scorpio, Pisces).</value>
   </data>
+  <data name="_0" xml:space="preserve">
+    <value>Aries
+Mar 21 - Apr 19
+Ambitious, independent, impatient
+Diamond
+https://www.horoscope.com/zodiac-signs/aries</value>
+  </data>
+  <data name="_1" xml:space="preserve">
+    <value>Leo
+Jul 23 - Aug 22
+Proud, bold, ambitious
+Carnelian
+https://www.horoscope.com/zodiac-signs/leo</value>
+  </data>
+  <data name="_10" xml:space="preserve">
+    <value>Scorpio
+Oct 23 - Nov 21
+Seductive, passionate, independent
+Topaz &amp; opal
+https://www.horoscope.com/zodiac-signs/scorpio</value>
+  </data>
+  <data name="_11" xml:space="preserve">
+    <value>Pisces
+Feb 19 - Mar 20
+Creative, sensitive, artistic
+Moonstone
+https://www.horoscope.com/zodiac-signs/pisces</value>
+  </data>
+  <data name="_2" xml:space="preserve">
+    <value>Sagittarius
+Nov 22 - Dec 21
+Adventurous, creative, strong willed
+Topaz
+https://www.horoscope.com/zodiac-signs/sagittarius</value>
+  </data>
+  <data name="_3" xml:space="preserve">
+    <value>Taurus
+Apr 20 - May 20
+Dependable, musical, practical
+Emerald
+https://www.horoscope.com/zodiac-signs/Taurus</value>
+  </data>
+  <data name="_4" xml:space="preserve">
+    <value>Virgo
+Aug 23 - Sep 22
+Graceful, organized, kind
+Peridot
+https://www.horoscope.com/zodiac-signs/Virgo</value>
+  </data>
+  <data name="_5" xml:space="preserve">
+    <value>Capricorn
+Dec 22 - Jan 19
+Detail-oriented, intelligent, hardworking
+Lapis lazuli
+https://www.horoscope.com/zodiac-signs/Capricorn</value>
+  </data>
+  <data name="_6" xml:space="preserve">
+    <value>Gemini
+May 21 - Jun 20
+Curious, affectionate, kind
+Tiger's Eye &amp; Emerald
+https://www.horoscope.com/zodiac-signs/Gemini</value>
+  </data>
+  <data name="_7" xml:space="preserve">
+    <value>Libra
+Sep 23 - Oct 22
+Diplomatic, artistic, intelligent
+Sapphire
+https://www.horoscope.com/zodiac-signs/Libra</value>
+  </data>
+  <data name="_8" xml:space="preserve">
+    <value>Aquarius
+Jan 20 - Feb 18
+Imaginative, idealistic, intuitive
+Amethyst
+https://www.horoscope.com/zodiac-signs/Aquarius</value>
+  </data>
+  <data name="_9" xml:space="preserve">
+    <value>Cancer
+Jun 21 - Jul 22
+Intuitive, emotional, intelligent, passionate
+Ruby, pearl
+https://www.horoscope.com/zodiac-signs/Cancer</value>
+  </data>
 </root>

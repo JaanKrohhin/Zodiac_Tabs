@@ -33,8 +33,6 @@ namespace Zodiac_Tabs
             List<string> zods = new List<string> { "Fire", "Earth", "Air", "Water" };
             var a = await DisplayActionSheet("Pick your starting page", "Cancel", null, new string[] { "Fire", "Earth", "Air", "Water"});
             this.CurrentPage = this.Children[zods.IndexOf(a)];
-            Console.WriteLine((zods.IndexOf(a)));
-            Console.WriteLine((zods.IndexOf(a)));
         }
     }
 }
